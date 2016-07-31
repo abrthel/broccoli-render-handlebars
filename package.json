@@ -21,12 +21,12 @@
   "dependencies": {
     "broccoli-glob-filter": "^0.1.0",
     "dirmatch": "^0.1.1",
-    "handlebars": "^2.0.0",
-    "underscore": "^1.7.0"
+    "handlebars": "^4.0.5",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
-    "broccoli": "^0.13.3",
-    "fs-extra": "^0.14.0",
-    "sinon": "^1.12.2"
+    "broccoli": "^0.16.9",
+    "fs-extra": "^0.30.0",
+    "sinon": "^1.17.5"
   }
 }
